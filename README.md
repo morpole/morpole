@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+## Open Source Contributions
+- **First Contributions**: Added my name to the contributors list in a global open-source project ([commit](https://github.com/firstcontributions/first-contributions/commit/5341cae)).
 <!--
 **morpole/morpole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
